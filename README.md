@@ -1,2 +1,2 @@
-# heartattack_detaction
+# heartattack_detection
 a previously done project.sorting out and updating... 
